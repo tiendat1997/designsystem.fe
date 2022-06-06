@@ -1,0 +1,17 @@
+69 error Error: Command failed: git commit -m v0.1.4
+69 error husky > commit-msg (node v14.19.3)
+69 error ⧗   input: v0.1.4
+69 error
+69 error
+69 error ✖   Please add rules to your `commitlint.config.js`
+69 error     - Getting started guide: https://git.io/fhHij
+69 error     - Example config: https://git.io/fhHip [empty-rules]
+69 error
+69 error ✖   found 1 problems, 0 warnings
+69 error ⓘ   Get help: https://github.com/conventional-changelog/commitlint/#what-is-commitlint
+69 error
+69 error husky > commit-msg hook failed (add --no-verify to bypass)
+69 error
+69 error     at makeError (/Users/mac/Dev/designsystem.fe/node_modules/execa/index.js:174:9)
+69 error     at /Users/mac/Dev/designsystem.fe/node_modules/execa/index.js:278:16
+69 error     at processTicksAndRejections (internal/process/task_queues.js:95:5)
